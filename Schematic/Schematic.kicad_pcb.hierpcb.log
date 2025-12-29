@@ -1,0 +1,32 @@
+Plugin v0.0.1 running on KiCad 9.0.6 and Python 3.11.5 (main, Sep 17 2025, 01:04:48) [MSC v.1944 64 bit (AMD64)] on win32.
+Config file C:\Users\Laptop\Documents\PowerBoardDesingForRoboticArm\Schematic\Schematic.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported C:\Users\Laptop\Documents\PowerBoardDesingForRoboticArm\Schematic\Schematic.kicad_pcb, with 26 footprints, 771 tracks, and 0 drawings.
+/ (+ PCB C:\Users\Laptop\Documents\PowerBoardDesingForRoboticArm\Schematic\Schematic.kicad_pcb)
+PCB C:\Users\Laptop\Documents\PowerBoardDesingForRoboticArm\Schematic\Schematic.kicad_pcb
+  /d1d60334: U1
+  /6dd0e351: R5
+  /de2ee524: R4
+  /507386d1: R3
+  /354a0e02: R2
+  /cc884a36: R1
+  /12e7477f: P1
+  /8fb2c502: C7
+  /4328a28d: C6
+  /12b4823e: C5
+  /229578dd: C4
+  /b1d75c19: C3
+  /5dd779f4: C2
+  /7d1c2f92: C1
+  /3c90b9f5: M4
+  /e52cc0fb: Q1
+  /1eabff1e: D2
+  /54cd3805: U5
+  /6838d5d2: U2
+  /7b909428: D1
+  /7a4d0406: M2
+  /d7c7a81c: M1
+  /ee60cffe: U3
+  /579879f2: Q3
+  /ae419566: M3
+  /e763b195: U4
+Saved.
